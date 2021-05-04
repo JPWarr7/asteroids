@@ -1,6 +1,6 @@
-# Space Rocks
+# Asteroids
 
-A simple space game made with Python and Pygame
+A simple recreation of the Atari classic "Asteroids" made with Python and Pygame
 
 ## Installation
 
@@ -8,5 +8,5 @@ Requires Python 3.
 
 ```
 pip install -r requirements.txt
-python space_rocks
+python asteroids
 ```
